@@ -18,9 +18,9 @@ target/
 *.iws
 *.iml
 *.ipr
-/springbootdemo-properties
-!/springbootdemo-properties/src
-!/springbootdemo-properties/pom.xml
+/*/.gitignore
+mvnw
+mvnw.cmd
 
 ### NetBeans ###
 /nbproject/private/
